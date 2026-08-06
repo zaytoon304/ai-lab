@@ -1,6 +1,6 @@
 {
   "name": "golden-rule-interactive",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "private": true,
   "description": "القاعدة الذهبية التفاعلية لتعليم القراءة والكتابة العربية - إعداد وتصميم محمد زيتون",
   "scripts": {
