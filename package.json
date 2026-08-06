@@ -1,0 +1,14 @@
+{
+  "name": "golden-rule-interactive",
+  "version": "1.0.0-beta.23",
+  "private": true,
+  "description": "القاعدة الذهبية التفاعلية لتعليم القراءة والكتابة العربية - إعداد وتصميم محمد زيتون",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node scripts/validate.mjs",
+    "serve": "npx serve ."
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
