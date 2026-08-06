@@ -1,3 +1,12 @@
-# AI Lab
+# Mohamed Zaitoun Interactive Arabic Book
 
-Created by Mohammed Zaytoon
+Interactive Arabic reading and writing project.
+
+## Roadmap
+- Interactive lessons
+- Audio
+- Games
+- Teacher dashboard
+- Student progress
+
+Project owner: Mohammed Zaytoon
