@@ -1,0 +1,1 @@
+function openGame(){history.replaceState({},'','#game');newWordGame()}const gameButton=document.querySelector('[data-route="game"]');if(gameButton)gameButton.onclick=openGame;window.addEventListener('hashchange',()=>{if(location.hash==='#game')renderWordGame()});if(location.hash==='#game')renderWordGame();
